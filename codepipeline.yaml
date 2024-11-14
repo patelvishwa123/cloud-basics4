@@ -10,7 +10,7 @@ Parameters:
     Default: shrestha-ajay #replace with your github username
     AllowedPattern: "[A-Za-z0-9-]+"
 
-  RepositoryName:
+  RepositoryName:patelvishwa123
     Type: String
     Default: cloud-basics4 #replace with your github repository name
     AllowedPattern: "[A-Za-z0-9-]+"
